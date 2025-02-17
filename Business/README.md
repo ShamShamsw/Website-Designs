@@ -23,7 +23,7 @@ This project replicates the Park & Lee Real Estate website, featuring a modern a
 ### Branching and Pushing
 1. Create a new branch for development:
    ```sh
-   git checkout -b park-lee-webpage
+   git checkout -b business-webpage
    ```
 2. Add your changes:
    ```sh
@@ -31,13 +31,13 @@ This project replicates the Park & Lee Real Estate website, featuring a modern a
    ```
 3. Commit the changes:
    ```sh
-   git commit -m "Initial replication of Park & Lee webpage"
+   git commit -m "Initial replication of business webpage"
    ```
 4. Push the changes:
    ```sh
-   git push origin park-lee-webpage
+   git push origin business-webpage
    ```
-5. Create a pull request on GitHub/GitLab to merge `park-lee-webpage` into `main`.
+5. Create a pull request on GitHub/GitLab to merge `business-webpage` into `main`.
 
 ## File Structure
 ```
