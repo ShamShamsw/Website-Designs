@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: #e0d7c9;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* Container Layout */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Bio Section */
+.bio-section {
+    max-width: 50%;
+}
+.bio-section h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.social-icons img {
+    width: 24px;
+    margin-right: 10px;
+}
+
+/* Image Section */
+.image-section img {
+    max-width: 100%;
+    border-radius: 10px;
+}
