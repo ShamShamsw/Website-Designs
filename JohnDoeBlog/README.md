@@ -1,10 +1,8 @@
-# Website-Designs
-
-For the John Doe Webpage Replication
+# John Doe Webpage
 
 This project replicates the design and layout of the John Doe webpage based on the provided image. The page consists of HTML for structure, CSS for styling, and optional JavaScript for interactivity.
 
-Features
+## Features
 
 Responsive navigation bar
 
@@ -14,7 +12,7 @@ Social media icons
 
 Styled layout with a soft color scheme
 
-Installation
+## Installation
 
 Clone the repository:
 
@@ -26,9 +24,8 @@ cd <repository_folder>
 
 Open index.html in a browser to view the page.
 
-Git Workflow
-
-Branching and Pushing
+## Git Workflow
+## Branching and Pushing
 
 Create a new branch for development:
 
@@ -48,7 +45,7 @@ git push origin webpage-replication
 
 Create a pull request on GitHub/GitLab to merge webpage-replication into main.
 
-File Structure
+## File Structure
 
 project-folder/
 │── index.html
@@ -61,14 +58,10 @@ project-folder/
 │   ├── linkedin-icon.png
 └── README.md
 
-Future Enhancements
+## Future Enhancements
 
 Add interactive hover effects
 
 Implement animations for smooth transitions
 
 Optimize for better mobile responsiveness
-
-License
-
-This project is open-source and available under the MIT License.
