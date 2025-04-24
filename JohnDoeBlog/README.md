@@ -1,8 +1,6 @@
-# Business Website
-
 ## John Doe Webpage
 
-This project replicates the design and layout of the John Doe webpage based on the provided image. The page consists of HTML for structure, CSS for styling, and optional JavaScript for interactivity.
+This project is a Blog page. The page consists of HTML for structure, CSS for styling, and optional JavaScript for interactivity.
 
 ## Features
 
