@@ -1,6 +1,6 @@
 # Business Website
 
-This project replicates the Park & Lee Real Estate website, featuring a modern and minimalistic design with a structured layout. The page consists of HTML for structure, CSS for styling, and optional JavaScript for interactivity.
+This project is a Fashion website, featuring a modern and minimalistic design with a structured layout. The page consists of HTML for structure, CSS for styling, and optional JavaScript for interactivity.
 
 ## Fashion Webpage
 
